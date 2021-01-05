@@ -133,7 +133,7 @@ a {
 }
 
 .mailing-layout::after {
-    content: ""; 
+    content: "";
     display: block;
     clear: both;
 }
