@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\PC36\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.formatting.provider": "autopep8",
+    "liveServer.settings.port": 5908,
+    "liveServer.settings.multiRootWorkspaceName": "online"
+}
